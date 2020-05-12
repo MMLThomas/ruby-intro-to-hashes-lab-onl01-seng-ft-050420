@@ -1,7 +1,6 @@
 def new_hash
   hash = {}
 end
-require pry
 
 def actor
   actor = {name: "Dwayne The Rock Johnson"}
